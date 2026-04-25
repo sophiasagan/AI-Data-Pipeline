@@ -214,7 +214,3 @@ All pipeline output goes to `pipeline.log`. Each run produces entries like:
 ```
 
 A `FAIL` on any validation assertion is logged at `WARNING` level with an unexpected row count and percentage. Pipeline errors are logged at `ERROR` with a full traceback.
-#   A I - D a t a - P i p e l i n e  
- #   A I - D a t a - P i p e l i n e  
- #   A I - D a t a - P i p e l i n e  
- 
